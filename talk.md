@@ -1,10 +1,24 @@
-# todo
-- search twitter for design complaints
-- review my blog posts that may be germane
-- get talk from Sha
-- interview byron: what are his pain points?
-- send out some public surveys
-- get all these ideas out on index cards or post its and move them around
+# Todo
+- X search twitter for design complaints
+- √ review my blog posts that may be germane
+- ~ get talk from Sha
+- X interview byron: what are his pain points?
+- ? send out some public surveys
+- ? get all these ideas out on index cards or post its and move them around
+- What pain points led to agile dev? can I use the manifesto or the ToC for Extreme Programming Explained?
+
+## The Plan
+- get "3 challenges" in
+- get "big design refactor" in
+- get agile history in
+- put sust'l pace in
+
+### Sus'l Pace
+- add the "empathy" story
+- add the "where are all the screamers?" story
+- where can I put "I got tired of nothing I designed ever being built"? Maybe tie that into the problems that led to agile dev't
+
+- cut to 20m(!)
 
 ---
 = id=complaints

@@ -38,6 +38,10 @@ body {
 	background: -ms-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
 	background: -o-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
 	background: radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+	background-color: rgb(221, 221, 221);
+	background-image: url('../images/pivotal_logo.png');
+	background-repeat: no-repeat;
+	background-position: 99% 99%;
 	pointer-events: none;	/* Fix Body Click */
 }
 

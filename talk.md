@@ -46,29 +46,38 @@ Jonathan Berger, Pivotal Labs
 My
 # background
 is in
+
 - **philosophy** and then
 - **design** and now
-- **development**
+- **development** too
 
 ---
 
-I read and write code every day to build products and practice at **@pivotallabs**
+I read and write code every day to build **products** and **practice** at 
+
+## @pivotallabs
 
 ---
 
 # What it says on the tin
-> How much design should a project start with? Why is Agile so tough for designers? How can designers achieve sustainable pace? There are a handful of perennial agile-and-design questions that keep coming up. Part of solving them involves acknowledging that the pace of design changes over the course of a project. Acknowledging the different rhythms—and identifying the beats that are in sync—can help teams work together in harmony.
+> Why is Agile so tough for designers? 
+
+> How much design should a project start with? 
+
+> How can designers achieve sustainable pace? 
+
+<!-- There are a handful of perennial agile-and-design questions that keep coming up. Part of solving them involves acknowledging that the pace of design changes over the course of a project. Acknowledging the different rhythms—and identifying the beats that are in sync—can help teams work together in harmony. -->
 
 ---
 
-# The order
+<!-- # The order
 of the title is scrambled. We're gonna tackle
 
 - Agile
 - The Big Design Refactor
 - Sustainable Pace
 
----
+--- -->
 
 <!-- ## Learning Outcomes
 
@@ -80,21 +89,12 @@ of the title is scrambled. We're gonna tackle
 ---
  -->
 
-This session is the result of a lot of thinking and blogging over the past few years. The rhythms of design and development (and how they intersect) has been under-explored, and there's a lot of light to be shed on common points of friction between designers and developers on agile teams.
+<!-- This session is the result of a lot of thinking and blogging over the past few years. The rhythms of design and development (and how they intersect) has been under-explored, and there's a lot of light to be shed on common points of friction between designers and developers on agile teams.
 
 ---
-# Empathy
-- There's a homunculus inside of us, and we're treating him like shit.
-- Why do we practice empathy professionally for everyone but ourselves?
 
----
-# Problems
+-->
 
-- Why is Agile so tough for designers?
-- How much design should a project start with?
-- How can designers achieve sustainable pace?
-
----
 
 # Why is Agile so tough for designers?
 
@@ -119,15 +119,31 @@ This session is the result of a lot of thinking and blogging over the past few y
 
 # How can designers achieve sustainable pace?
 
+---
+
+# Empathy
+- There's a homunculus inside of us, and we're treating him like shit.
+- Why do we practice empathy professionally for everyone but ourselves?
+
+
+---
+
+
 # BLog Posts
 
 ---
 
 # 3 challenges
-Software development has been revolutionized by Agile development practices, but designers struggle to adapt to the very same techniques—despite suffering many of the same challenges that led to Agile. What exactly are these problems? And how can Agilists and designers address them?
+
+> Software development has been revolutionized by Agile development practices, but 
+designers struggle to adapt to the very same techniques—
+despite suffering many of the same challenges that led to Agile. 
+
+What exactly are these problems? And how can Agilists and designers address them?
 
 ---
 = id=done
+
 Challenge #1
 # WHEN IS DESIGN DONE?
 
@@ -145,7 +161,9 @@ What does “done” mean for design?
 
 ## Automated testing
 
-guarantees that on every story, developers will enjoy Acceptance Criteria: a concrete measure of what counts as “done”.
+guarantees that on every story, developers will enjoy **Acceptance Criteria**: 
+
+### a concrete measure of what counts as “done”.
 
 ---
 
@@ -206,7 +224,7 @@ in coordinating between the two.
 ---
 
 ## SOLUTION:
-Breaking design into units of work with more discrete Acceptance Criteria helps coordinate design work with development work.
+### Breaking design into units of work with <br />**more discrete Acceptance Criteria**<br />helps coordinate design and development work.
 
 ---
 
@@ -222,9 +240,9 @@ solutions to design problems, traditionally expressed via mock-ups or assets.
 ---
 
 ## How should the two interact?
-Should design stay an iteration ahead of development?
-What does it mean when a developer discovers an interaction problem in a design they’re implementing?
-Should they stop work?
+- Should design stay an iteration ahead of development?
+- What happens when developers discover interaction problems during implementation?
+- Should they stop work?
 
 ---
 

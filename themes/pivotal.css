@@ -29,6 +29,7 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	line-height: .8;
 	font-size: 45px;
+  color: rgb(93, 92, 92);
 }
 
 body {
@@ -98,7 +99,9 @@ h1 {
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	color: rgb(197, 158, 22);
-}
+/*  font-size: 4em;
+  line-height: 2em;
+*/}
 
 h2 {
 	font-weight: 900;
@@ -107,8 +110,22 @@ h2 {
 	line-height: 48px;
 	margin: 10px 0;
 	font-size: 48px;
-    color: rgb(109, 153, 211);
-}
+  color: rgb(109, 153, 211);
+/*  font-size: 2em;
+  line-height: 1em;
+*/}
+
+h3 {
+	font-weight: 400;
+/*  letter-spacing: .1em;*/
+/*  text-transform: uppercase;*/
+  font-style: italic;
+	line-height: 48px;
+	margin: 10px 0;
+	font-size: 48px;
+  color: rgb(185, 0, 32);
+/*  line-height: 1em;
+*/}
 
 .light {
 	font-weight: 300;
@@ -126,6 +143,7 @@ blockquote {
 	border-bottom: 1px solid #aaa;
 	width: 1060px;
 }
+
 table {
 	width:100%;
 }

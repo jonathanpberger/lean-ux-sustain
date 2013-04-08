@@ -20,12 +20,6 @@
 
 - cut to 20m(!)
 
----
-= id=complaints
-# Complaints
-- "I got tired of nothing I designed ever being built"
-- "Where are you hiding the people who yell at you" - FIND A PLACE FOR THIS STORY
-
 
 ---
 = id=title
@@ -98,6 +92,24 @@ of the title is scrambled. We're gonna tackle
 ---
 
 -->
+
+I first realized something was amiss when I started going to meetups
+
+## Developers were confidant
+
+## Designers were timid
+
+---
+
+# The Oppressed Designer
+
+- Long nights
+- "I got tired of nothing I designed ever being built"
+- "Where are you hiding the people who yell at you" --> Insecure Design
+- UX Designers are more scared of Developers than of Business People" —@thinknow
+
+
+---
 
 
 # Why is Agile so tough for designers?
@@ -552,6 +564,14 @@ Make tactical adjustments to keep pace with agile development, and plan on overh
 
 ---
 
+# Thanks!
+@jonathanpberger on Twitter, Github, Forrst, Pivotallabs, etc.
+jonathanpberger.com
+
+---
+
+---
+
 # NOTES
 ---
 
@@ -566,7 +586,7 @@ Make tactical adjustments to keep pace with agile development, and plan on overh
 
 ---
 
-## What can Agile bring to Design?
+# What can Agile bring to Design?
 - Sustainable pace.
 - Shared ownership of product.
 - More predictable acceptance criteria.
@@ -635,4 +655,37 @@ Make tactical adjustments to keep pace with agile development, and plan on overh
 
 
 
+
+---
+
+# New Beginning
+
+When we talk about Agile nad Design, it's often a story about "how can designers cope w/ Agile practices"
+
+---
+
+this is a disservice.
+
+---
+
+Developers created agile to deal w/ problems they were having in their practice
+
+---
+
+Design has similar problems
+
+how can we leverage and apply their solutions?
+
+---
+
+# Individuals and interactions over processes and tools
+Charette, design studio
+
+# Working software over comprehensive documentation
+Deliverables bness
+
+# Customer collaboration over contract negotiation
+UCD
+
+# Responding to change over following a plan
 

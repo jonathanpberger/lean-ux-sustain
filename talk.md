@@ -35,9 +35,13 @@ Lean UX NYC, 2013
 Jonathan Berger, Pivotal Labs
 
 ---
+= id=hi
+
 # Hi!
 
 ---
+= id=jonathanpberger
+
 
 # I'm @jonathanpberger
 
@@ -100,16 +104,20 @@ of the title is scrambled. We're gonna tackle
 
 ---
 
-## Because we don't know when we're done
+## Because we don't know <br /> when we're done
 - "done" is objective in TDD development (a passing build)
 - "done" is subjective in design (client sign-off? implemented & accepted designs?)
 
 ---
 
-## Because we're in the deliverables business
+## Because we're in <br /> the deliverables business
 - the deliverable for development is working, user-facing code
 - the deliverable for design ought to be Design Solutions
 - we're set up as a business to bill for mockups instead
+
+---
+
+## Fixed-bid *vs.* <br /> Time-and-Materials billing
 
 ---
 
@@ -246,47 +254,62 @@ solutions to design problems, traditionally expressed via mock-ups or assets.
 
 ---
 
-Developers are the tip of the spear when it comes to experience design:
+<!-- Developers are the tip of the spear when it comes to experience design:
 in the process of building software, they’re often the first people ever to use it.
 Sometimes this means they uncover interactions on UX problems that the designers didn’t anticipate.
 If the necessary design changes cascade into other work, what should the designer do: stop work and refactor (and fall behind), or come back to it later?
 
----
+--- -->
 
-It can be difficult to determine how much design is required for developers to complete their work.
-The best design deliverable is the Simplest Thing That Can Possibly Communicate the Design Solution,
-this can vary from team to team and design problem to design problem.
-
----
-
-Under ideal circumstances, an experienced designer may be able to reasonably estimate how long it will take to
-1) solve the design problem,
-2) communicate the solution, and
-3) iterate on the problem / solution once it’s usable and testable as working software.
+It can be **difficult to determine**
+## How much design is required
+for developers to complete their work
 
 ---
 
-That’s asking a lot.
+The best design deliverable is 
+## the Simplest Thing That Can Possibly Communicate the Design Solution
+This can vary from team to team and design problem to design problem.
+
+---
+= id=ideal
+
+## Under ideal circumstances, 
+an experienced designer *may* be able to reasonably estimate how long it will take to:
+
+1. **solve** the design problem,
+2. **communicate** the solution, and
+3. **iterate** on the problem / solution once it’s usable and testable as working software.
+
+---
+
+(That’s asking a lot.)
 
 ---
 
 And it absolutely shreds the question
-“how far ahead should design stay of development?”.
+## “how far ahead should design stay of development?”
 
 ---
 
 Challenge #3
-# WHY DO DESIGNERS FEEL UNWELCOME IN AGILE?
+# WHY DO DESIGNERS FEEL UNWELCOME <br /> IN AGILE?
 
 ---
 
 
-Let’s take stock: we’ve got gallant developers, accurately estimating stories and delivering working software, and the
-goofus designers, unable to tell you what they’re doing or when they’ll be done.
+Let’s take stock: we’ve got 
+
+- Gallant *Developers*, **accurately estimating stories** and delivering working software, and 
+- Goofus *Designers*, **unable to tell you what they’re doing or when they’ll be done**
 
 ---
 
-Knowing “how much design is enough?” is hard. Knowing how much design to start with is hard.
+## Knowing “how much design is enough?” is hard. 
+
+---
+
+## Knowing how much design to start with is hard.
 
 ---
 
@@ -294,9 +317,13 @@ Reared in a culture that prizes individuality, that venerates Rock Star Designer
 
 ---
 
+              .--.      
+    ::\`--._,'.::.`._.--'/::
+    ::::.  ` __::__ '  .::::
+    ::::::-:.`'..`'.:-::::::
+    ::::::::\ `--' /::::::::
+                           
 > Fear leads to anger, anger leads to hate, hate.. to suffering
-
-- Yoda
 
 ---
 
@@ -305,11 +332,34 @@ Reared in a culture that prizes individuality, that venerates Rock Star Designer
 - Not Yoda
 
 ---
-That starts to lead to discord on the team: designers hating agile; feeling rushed, feeling like they don’t get the benefit of iterative design; feeling that once they touch something, they don’t get to go back and refactor it. Let’s throw in a bit of rah-rah agile ideology, a few jargon-y IPMs and retros, promises that “we’ll come back and refactor that later”, and the creeping suspicion that this whole Agile thing is nothing but smoke, mirrors, and Kool-Ade. Is it any wonder that designers can be hostile to agile?
+That starts to lead to 
+## discord on the team
 
 ---
 
-What can we do? Looking to the example that Agile Development sets, we can see several concepts that may help:
+## designers hating agile
+
+- feeling rushed, 
+- feeling like they don’t get the benefit of iterative design; 
+- feeling that once they touch something, they don’t get to go back and refactor it. 
+
+---
+
+## Let’s throw in a bit of 
+- rah-rah agile ideology, 
+- a few jargon-y IPMs and retros, 
+- promises that “we’ll come back and refactor that later”, and 
+- the creeping suspicion that this whole Agile thing is nothing but smoke, mirrors, and Kool-Ade. 
+
+---
+
+## Is it any wonder that designers can be hostile to agile?
+
+---
+
+What can we do? Looking to the example that Agile Development sets, we can see several 
+
+## concepts that may help
 
 - Acceptance Criteria-delimited design stories.
 - Meaningful estimation of work for design.
@@ -321,42 +371,150 @@ Translating these ideas from development to design may do more than just help de
 
 ---
 
+The
 # Big Design Refactor
 
+---
+
 ## WHAT IS THE BIG DESIGN REFACTOR?
-Design starts with systematic thinking and then shifts to incremental changes.
-No matter where a project starts, at some point the design systems’ integrity will degrade to the point that you need to look at the whole thing fresh.
-Welcome to the Big Design Refactor.
-In the beginning, you had a beautiful, functional design system.
-And then you had to watch, helplessly, as it degraded under the weight of a thousand tiny changes.
-It’s maddening, and a big reason many designers are allergic to Agile methodologies.
 
 ---
 
-What can you do?
-Understanding and accepting that this design-system degradation is an affordance of differently-sized design and development cycles is the first step towards making peace.
-Once you realize and accept this change, it’s much easier to deal with.
+## Design starts with <br /> *systematic thinking*
+
+---
+
+## and then shifts to <br /> *incremental changes*.
+
+--- 
+
+No matter where a project starts, 
+## at some point the design systems’ integrity will degrade 
+to the point that you need to look at the whole thing fresh.
+
+---
+
+# Welcome to the Big Design Refactor.
+
+---
+
+In the beginning, you had a 
+## beautiful, functional design system.
+
+---
+
+Then
+## the project got Agile
+
+--- 
+And then you had to watch, helplessly, as your design system 
+## degraded under the weight of a thousand tiny changes.
+
+---
+
+It’s maddening, and a big reason 
+## many designers are allergic to Agile methodologies.
+
+---
+
+## What can you do?
+
+---
+
+Understanding and accepting that 
+## this design-system degradation is an affordance of differently-sized design and development cycles 
+is the first step towards making peace.
+
+---
+
+Once you realize and 
+## accept this change, 
+it’s much easier to deal with.
+
+---
+
+## Agile Designers Prayer
+
+> grant me the serenity 
+
+> to accept the things I cannot change; 
+
+> courage to change the things I can;
+
+> and wisdom to know the difference.
+
+---
+
+## Communicate
 Plan on it.
 Talk about it with your team.
-Designers need not work at developers tempo.
-Rather, they should strive to stay in-rhythm with development, working at their own pace, and making sure their beats and decision-points intersect with development at regular intervals.
 
 ---
 
-As the designer, it’s your job to keep an eye on the health of the graphic system.
-Just as the developers incur and pay down their technical debt, you’ll manage your design debt. How?
-Mention that the graphic system is starting to break down.
-All the while, you’re still doing your work.
-Keep solving the tactical problems, keep delivering value.
-At some point, the balance shifts: you’re no longer plugging little leaks or engaging in preventative maintenance.
-The system is undermined; the cracks are starting to show.
-Now’s the time to have a talk with your team.
-You’re going to need a few weeks to work on this.
-You’re going to need the development team to find something design-light and backend-heavy to focus on for a week or two. Hold a design retro. Get their feedback, and their buy-in, and their good ideas. And now you’ll have a break from the tactical work of patching up design as features iterate. You’re a Pure Designer again, working in your idiom, experimenting and sketching and building a new design system.
+## Designers need not work at developers tempo.
 
 ---
 
-## HOW DOES THE BIG DESIGN REFACTOR WORK?
+Rather, they should strive to 
+## stay in-rhythm with development, 
+working at their own pace, and making sure their beats and decision-points intersect with development at regular intervals.
+
+---
+
+As the designer, it’s your job to 
+## keep an eye on the health of the graphic system.
+
+---
+
+Just as the developers incur and pay down their technical debt, you’ll 
+## manage your design debt. 
+
+---
+
+## How?
+- Mention that the graphic system is starting to break down.
+- All the while, you’re still doing your work.
+- Keep solving the tactical problems, keep delivering value.
+
+---
+
+At some point, 
+## the balance shifts
+
+--- 
+
+you’re no longer 
+## plugging little leaks or engaging in preventative maintenance.
+
+---
+## The system is undermined; 
+the cracks are starting to show.
+
+--- 
+
+Now’s the time to 
+## have a talk with your team.
+
+---
+
+## You’re going to need a few weeks to work on this.
+You’re going to need the development team to find something design-light and backend-heavy to focus on for a week or two. 
+
+---
+
+Hold a design retro. 
+## Get their feedback, 
+and their buy-in, and their good ideas. 
+
+---
+
+And now you’ll have a break from the tactical work of patching up design as features iterate. 
+## You’re a Pure Designer again, 
+working in your idiom, experimenting and sketching and building a new design system.
+
+---
+
+<!-- ## HOW DOES THE BIG DESIGN REFACTOR WORK?
 When I’m in the midst of a Big Design Refactor, I’m spending most of my day in Adobe Creative Suite. I’m pulling the product team over ~4-7 times a week to bounce ideas off of them. I’m pinging the development team ~1-2 times a week to consult on the technical implications of where I’m going. By the end of the week or two, I’m usually delivering a set of user stories accompanied by mockups. It’ll often take an IPM or two to get through all of them, and it’s important that they get implemented soon. Nothing feels more like waste than a heavy investment in design, followed by unacted-upon stories that go stale. This will kill trust between the design and product teams (in both directions); it’s downright poisonous.
 
 ---
@@ -367,7 +525,7 @@ Now, while the new design is being built by developers, I’ll occasionally hop 
 
 Once the Design Refactor has been assimilated into the app—and it’s rare that 100% goes in, but 80-90% is the norm—it’s Tactical Incremental Fun Time! I’ll spend most of this time pairing on stories, picking of styling stories to solo on, and working on design problems revealed by user testing. At this point it’s probably 66% development and 33% Adobe apps. The debt clock is starting to tick again, and once the pain is noticeable, I’ll start making noises: “we’re ok for right this second, but we’re going to need a design refactor in the next 3-5 weeks”.
 
----
+--- -->
 
 ## WHY ARE THE RHYTHMS DIFFERENT?
 Design and development are activities that move at different speeds. Test-driven development and Agile project management allow developers to break work down into small stories and iterate on them. The unit of work for the “what” of the story is “what’s the smallest possible thing that delivers value to the user?” and the “how” of the story is “what’s the simplest possible thing that can work?”. These units of work tend to translate poorly to design, because effective graphic design is almost always a system. Changing arbitrary pieces tends to degrade the whole. Design adjustments that are close in size to development units-of-work can be made, but they inevitably undermine the graphic system, creating Design Debt. Debt is fine, if used responsibly, but it needs to be paid down at some point. (More on that another time.)
@@ -435,6 +593,41 @@ Make tactical adjustments to keep pace with agile development, and plan on overh
 
 ---
 
+                           ____                  
+                        _.' :  `._               
+                    .-.'`.  ;   .'`.-.           
+           __      / : ___\ ;  /___ ; \      __  
+         ,'_ ""--.:__;".-.";: :".-.":__;.--"" _`,
+         :' `.t""--.. '<@.`;_  ',@>` ..--""j.' `;
+              `:-.._J '-.-'L__ `-- ' L_..-;'     
+                "-.__ ;  .-"  "-.  : __.-"       
+                    L ' /.------.\ ' J           
+                     "-.   "--"   .-"            
+                    __.l"-:_JL_;-";.__           
+                 .-j/'.;  ;""""  / .'\"-.        
+               .' /:`. "-.:     .-" .';  `.      
+            .-"  / ;  "-. "-..-" .-"  :    "-.   
+         .+"-.  : :      "-.__.-"      ;-._   \  
+         ; \  `.; ;                    : : "+. ; 
+         :  ;   ; ;                    : ;  : \: 
+         ;  :   ; :                    ;:   ;  : 
+        : \  ;  :  ;                  : ;  /  :: 
+        ;  ; :   ; :                  ;   :   ;: 
+        :  :  ;  :  ;                : :  ;  : ; 
+        ;\    :   ; :                ; ;     ; ; 
+        : `."-;   :  ;              :  ;    /  ; 
+         ;    -:   ; :              ;  : .-"   : 
+         :\     \  :  ;            : \.-"      : 
+          ;`.    \  ; :            ;.'_..--  / ; 
+          :  "-.  "-:  ;          :/."      .'  :
+           \         \ :          ;/  __        :
+            \       .-`.\        /t-""  ":-+.   :
+             `.  .-"    `l    __/ /`. :  ; ; \  ;
+               \   .-" .-"-.-"  .' .'j \  /   ;/ 
+                \ / .-"   /.     .'.' ;_:'    ;  
+                 :-""-.`./-.'     /    `.___.'   
+                       \ `t  ._  /  bug          
+                        "-.t-._:'                
 
 
 

@@ -51,18 +51,18 @@ is in
 
 ---
 
-I read and write code every day to build **products** and **practice** at 
+I read and write code every day to build **products** and **practice** at
 
 ## @pivotallabs
 
 ---
 
 # What it says on the tin
-> Why is Agile so tough for designers? 
+> Why is Agile so tough for designers?
 
-> How much design should a project start with? 
+> How much design should a project start with?
 
-> How can designers achieve sustainable pace? 
+> How can designers achieve sustainable pace?
 
 <!-- There are a handful of perennial agile-and-design questions that keep coming up. Part of solving them involves acknowledging that the pace of design changes over the course of a project. Acknowledging the different rhythms—and identifying the beats that are in sync—can help teams work together in harmony. -->
 
@@ -155,9 +155,9 @@ I first realized something was amiss when I started going to meetups
 
 # 3 challenges
 
-> Software development has been revolutionized by Agile development practices, but 
+> Software development has been revolutionized by Agile development practices, but
 designers struggle to adapt to the very same techniques—
-despite suffering many of the same challenges that led to Agile. 
+despite suffering many of the same challenges that led to Agile.
 
 What exactly are these problems? And how can Agilists and designers address them?
 
@@ -181,7 +181,7 @@ What does “done” mean for design?
 
 ## Automated testing
 
-guarantees that on every story, developers will enjoy **Acceptance Criteria**: 
+guarantees that on every story, developers will enjoy **Acceptance Criteria**:
 
 ### a concrete measure of what counts as “done”.
 
@@ -279,14 +279,14 @@ for developers to complete their work
 
 ---
 
-The best design deliverable is 
+The best design deliverable is
 ## the Simplest Thing That Can Possibly Communicate the Design Solution
 This can vary from team to team and design problem to design problem.
 
 ---
 = id=ideal
 
-## Under ideal circumstances, 
+## Under ideal circumstances,
 an experienced designer *may* be able to reasonably estimate how long it will take to:
 
 1. **solve** the design problem,
@@ -310,14 +310,14 @@ Challenge #3
 ---
 
 
-Let’s take stock: we’ve got 
+Let’s take stock: we’ve got
 
-- Gallant *Developers*, **accurately estimating stories** and delivering working software, and 
+- Gallant *Developers*, **accurately estimating stories** and delivering working software, and
 - Goofus *Designers*, **unable to tell you what they’re doing or when they’ll be done**
 
 ---
 
-## Knowing “how much design is enough?” is hard. 
+## Knowing “how much design is enough?” is hard.
 
 ---
 
@@ -327,10 +327,10 @@ Let’s take stock: we’ve got
 
 ## Design culture
 
-- prizes individuality, 
+- prizes individuality,
 - venerates Rock Star Designers
-- that applauds Working On It Til Its Done, 
-- publicly shreds less-than-perfect work in Crit as a rite of passage, 
+- that applauds Working On It Til Its Done,
+- publicly shreds less-than-perfect work in Crit as a rite of passage,
 - is alien to the notion of sustainable development
 
 ---
@@ -339,12 +339,12 @@ Let’s take stock: we’ve got
 
 ---
 
-              .--.      
+              .--.
     ::\`--._,'.::.`._.--'/::
     ::::.  ` __::__ '  .::::
     ::::::-:.`'..`'.:-::::::
     ::::::::\ `--' /::::::::
-                           
+
 > Fear leads to anger, anger leads to hate, hate.. to suffering
 
 ---
@@ -354,24 +354,24 @@ Let’s take stock: we’ve got
 - Not Yoda
 
 ---
-That starts to lead to 
+That starts to lead to
 ## discord on the team
 
 ---
 
 ## designers hating agile
 
-- feeling rushed, 
-- feeling like they don’t get the benefit of iterative design; 
-- feeling that once they touch something, they don’t get to go back and refactor it. 
+- feeling rushed,
+- feeling like they don’t get the benefit of iterative design;
+- feeling that once they touch something, they don’t get to go back and refactor it.
 
 ---
 
-## Let’s throw in a bit of 
-- rah-rah agile ideology, 
-- a few jargon-y IPMs and retros, 
-- promises that “we’ll come back and refactor that later”, and 
-- the creeping suspicion that this whole Agile thing is nothing but smoke, mirrors, and Kool-Ade. 
+## Let’s throw in a bit of
+- rah-rah agile ideology,
+- a few jargon-y IPMs and retros,
+- promises that “we’ll come back and refactor that later”, and
+- the creeping suspicion that this whole Agile thing is nothing but smoke, mirrors, and Kool-Ade.
 
 ---
 = id=hostile
@@ -381,7 +381,7 @@ That starts to lead to
 ---
 = id=concepts_that_may_help
 
-What can we do? Looking to the example that Agile Development sets, we can see several 
+What can we do? Looking to the example that Agile Development sets, we can see several
 
 ## concepts that may help
 
@@ -392,7 +392,7 @@ What can we do? Looking to the example that Agile Development sets, we can see s
 ---
 = id=translating
 
-## Translating these ideas 
+## Translating these ideas
 
 from development to design may do more than just help designers work more comfortably in Agile environments—
 
@@ -416,10 +416,10 @@ The
 
 ## and then shifts to <br /> *incremental changes*.
 
---- 
+---
 
-No matter where a project starts, 
-## at some point the design systems’ integrity will degrade 
+No matter where a project starts,
+## at some point the design systems’ integrity will degrade
 to the point that you need to look at the whole thing fresh.
 
 ---
@@ -428,21 +428,26 @@ to the point that you need to look at the whole thing fresh.
 
 ---
 
-In the beginning, you had a 
-## beautiful, functional design system.
+In the beginning, you had a
+## Beautiful, well-considered visual design system
+Type, whitespace, etc.
 
 ---
 
 Then
 ## the project got Agile
 
---- 
-And then you had to watch, helplessly, as your design system 
+---
+And then you had to watch, helplessly, as your design system
 ## degraded under the weight of a thousand tiny changes.
 
 ---
 
-It’s maddening, and a big reason 
+Domain discovery => changes in semantic
+
+---
+
+It’s maddening, and a big reason
 ## many designers are allergic to Agile methodologies.
 
 ---
@@ -451,23 +456,23 @@ It’s maddening, and a big reason
 
 ---
 
-Understanding and accepting that 
-## this design-system degradation is an affordance of differently-sized design and development cycles 
+Understanding and accepting that
+## this design-system degradation is an affordance of differently-sized design and development cycles
 is the first step towards making peace.
 
 ---
 
-Once you realize and 
-## accept this change, 
+Once you realize and
+## accept this change,
 it’s much easier to deal with.
 
 ---
 
 ## Agile Designers Prayer
 
-> grant me the serenity 
+> grant me the serenity
 
-> to accept the things I cannot change; 
+> to accept the things I cannot change;
 
 > courage to change the things I can;
 
@@ -485,19 +490,19 @@ Talk about it with your team.
 
 ---
 
-Rather, they should strive to 
-## stay in-rhythm with development, 
+Rather, they should strive to
+## stay in-rhythm with development,
 working at their own pace, and making sure their beats and decision-points intersect with development at regular intervals.
 
 ---
 
-As the designer, it’s your job to 
+As the designer, it’s your job to
 ## keep an eye on the health of the graphic system.
 
 ---
 
-Just as the developers incur and pay down their technical debt, you’ll 
-## manage your design debt. 
+Just as the developers incur and pay down their technical debt, you’ll
+## manage your design debt.
 
 ---
 
@@ -508,38 +513,38 @@ Just as the developers incur and pay down their technical debt, you’ll
 
 ---
 
-At some point, 
+At some point,
 ## the balance shifts
 
---- 
+---
 
-you’re no longer 
+you’re no longer
 ## plugging little leaks or engaging in preventative maintenance.
 
 ---
-## The system is undermined; 
+## The system is undermined;
 the cracks are starting to show.
 
---- 
+---
 
-Now’s the time to 
+Now’s the time to
 ## have a talk with your team.
 
 ---
 
 ## You’re going to need a few weeks to work on this.
-You’re going to need the development team to find something design-light and backend-heavy to focus on for a week or two. 
+You’re going to need the development team to find something design-light and backend-heavy to focus on for a week or two.
 
 ---
 
-Hold a design retro. 
-## Get their feedback, 
-and their buy-in, and their good ideas. 
+Hold a design retro.
+## Get their feedback,
+and their buy-in, and their good ideas.
 
 ---
 
-And now you’ll have a break from the tactical work of patching up design as features iterate. 
-## You’re a Pure Designer again, 
+And now you’ll have a break from the tactical work of patching up design as features iterate.
+## You’re a Pure Designer again,
 working in your idiom, experimenting and sketching and building a new design system.
 
 ---
@@ -576,8 +581,8 @@ The rhythm of design is slower. Design pulls together an information architectur
 ---
 
 ## TL;DR
-- Ideally, bring a cohesive graphic system to Inception. 
-- Accept that it will degrade over time. 
+- Ideally, bring a cohesive graphic system to Inception.
+- Accept that it will degrade over time.
 Make tactical adjustments to keep pace with agile development, and plan on overhauling the design system every quarter or so.
 
 ---
@@ -631,41 +636,41 @@ jonathanpberger.com
 
 ---
 
-                           ____                  
-                        _.' :  `._               
-                    .-.'`.  ;   .'`.-.           
-           __      / : ___\ ;  /___ ; \      __  
+                           ____
+                        _.' :  `._
+                    .-.'`.  ;   .'`.-.
+           __      / : ___\ ;  /___ ; \      __
          ,'_ ""--.:__;".-.";: :".-.":__;.--"" _`,
          :' `.t""--.. '<@.`;_  ',@>` ..--""j.' `;
-              `:-.._J '-.-'L__ `-- ' L_..-;'     
-                "-.__ ;  .-"  "-.  : __.-"       
-                    L ' /.------.\ ' J           
-                     "-.   "--"   .-"            
-                    __.l"-:_JL_;-";.__           
-                 .-j/'.;  ;""""  / .'\"-.        
-               .' /:`. "-.:     .-" .';  `.      
-            .-"  / ;  "-. "-..-" .-"  :    "-.   
-         .+"-.  : :      "-.__.-"      ;-._   \  
-         ; \  `.; ;                    : : "+. ; 
-         :  ;   ; ;                    : ;  : \: 
-         ;  :   ; :                    ;:   ;  : 
-        : \  ;  :  ;                  : ;  /  :: 
-        ;  ; :   ; :                  ;   :   ;: 
-        :  :  ;  :  ;                : :  ;  : ; 
-        ;\    :   ; :                ; ;     ; ; 
-        : `."-;   :  ;              :  ;    /  ; 
-         ;    -:   ; :              ;  : .-"   : 
-         :\     \  :  ;            : \.-"      : 
-          ;`.    \  ; :            ;.'_..--  / ; 
+              `:-.._J '-.-'L__ `-- ' L_..-;'
+                "-.__ ;  .-"  "-.  : __.-"
+                    L ' /.------.\ ' J
+                     "-.   "--"   .-"
+                    __.l"-:_JL_;-";.__
+                 .-j/'.;  ;""""  / .'\"-.
+               .' /:`. "-.:     .-" .';  `.
+            .-"  / ;  "-. "-..-" .-"  :    "-.
+         .+"-.  : :      "-.__.-"      ;-._   \
+         ; \  `.; ;                    : : "+. ;
+         :  ;   ; ;                    : ;  : \:
+         ;  :   ; :                    ;:   ;  :
+        : \  ;  :  ;                  : ;  /  ::
+        ;  ; :   ; :                  ;   :   ;:
+        :  :  ;  :  ;                : :  ;  : ;
+        ;\    :   ; :                ; ;     ; ;
+        : `."-;   :  ;              :  ;    /  ;
+         ;    -:   ; :              ;  : .-"   :
+         :\     \  :  ;            : \.-"      :
+          ;`.    \  ; :            ;.'_..--  / ;
           :  "-.  "-:  ;          :/."      .'  :
            \         \ :          ;/  __        :
             \       .-`.\        /t-""  ":-+.   :
              `.  .-"    `l    __/ /`. :  ; ; \  ;
-               \   .-" .-"-.-"  .' .'j \  /   ;/ 
-                \ / .-"   /.     .'.' ;_:'    ;  
-                 :-""-.`./-.'     /    `.___.'   
-                       \ `t  ._  /  bug          
-                        "-.t-._:'                
+               \   .-" .-"-.-"  .' .'j \  /   ;/
+                \ / .-"   /.     .'.' ;_:'    ;
+                 :-""-.`./-.'     /    `.___.'
+                       \ `t  ._  /  bug
+                        "-.t-._:'
 
 
 

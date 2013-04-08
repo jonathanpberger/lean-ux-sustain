@@ -1,32 +1,32 @@
 @font-face {
     font-family: "Ars";
-    src:      url('../fonts/ARSMaquette-Bold.otf');
+	src: url('../fonts/ARSMaquette-Black.otf');
     font-weight: bold;
 }
 
-/*@font-face {
-    font-family: "Ars";
-    src:      url('../fonts/ARSMaquette-RegularItalic.otf');
-    font-style: italic, oblique;
-}
-
-@font-face {
-    font-family: "Ars";
-    src: url('../fonts/ARSMaquette-BoldItalic.otf');
-    font-weight: bold;
-    font-style: italic, oblique;
-}
-*/
 @font-face {
     font-family: "Ars";
     src: url('../fonts/ARSMaquette-Regular.otf');
 }
 
+@font-face {
+    font-family: "Ars";
+    src:      url('../fonts/ARSMaquette-RegularItalic.otf');
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Ars";
+    src: url('../fonts/ARSMaquette-BlackItalic.otf');
+    font-weight: bold;
+    font-style: italic;
+}
 /*@font-face
 {
 font-family: Ars;
-src: url('../fonts/ARSMaquette-Black.otf'),
-     url('../fonts/ARSMaquette-BlackItalic.otf'),
+src: 
+	 url('../fonts/ARSMaquette-Bold.otf');
+     url('../fonts/ARSMaquette-BoldItalic.otf'),
      url('../fonts/ARSMaquette-Light.otf'),
      url('../fonts/ARSMaquette-LightItalic.otf'),
      url('../fonts/ARSMaquette-Medium.otf'),

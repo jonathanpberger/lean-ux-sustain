@@ -348,3 +348,12 @@ Design solutions
 - @jonathanpberger on twitter, github, gmail, pivotallabs.com, everywhere.
 - slides at <http://jonathanpberger.com/talks>
 - Thanks to Lane Halley and Giff Constable for feedback on this talk.
+
+---
+<script src="js/jquery.js"></script>
+
+<script src="js/impressConsole.js"></script>
+<script>
+    impressConsole().init();
+    // impressConsole().open(); // for console to open automatically
+</script>
